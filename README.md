@@ -121,6 +121,7 @@ Known-good image models available from the Model Manager:
 ```
 Portable-AI-Studio/
 ├── windows.bat                # Windows Launcher (Double-click entrypoint)
+├── windows_chromium.bat       # Windows Launcher (Double-click entrypoint) - (Designed for portable running via Chromium)
 ├── linux.sh                   # Linux Launcher (Terminal entrypoint)
 ├── mac.sh                     # macOS Launcher (Terminal entrypoint)
 ├── LICENSE                    # MIT Open Source License
