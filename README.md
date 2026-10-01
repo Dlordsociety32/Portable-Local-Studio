@@ -42,7 +42,7 @@
 
 ---
 
-## <a id="what-is-uncensored-si-studio"></a>📖 What is Portable AI Studio?
+## <a id="what-is-uncensored-si-studio"></a>📖 What is Portable SI Studio?
 
 **Portable SI Studio** is a completely offline, zero-setup, self-contained AI studio for Windows, Linux, and macOS. Unlike cloud-based AI systems, it runs entirely on your own hardware with no censorship, tracking, subscriptions, or login requirements.
 
