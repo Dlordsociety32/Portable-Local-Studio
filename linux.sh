@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Uncensored AI Studio - Linux Launcher
+# Uncensored SI Studio - Linux Launcher
 # Double-click or run: ./linux.sh
 # Use --max-perf to enable ROCm backend downloads on Linux first setup.
 #
@@ -188,7 +188,7 @@ fi
 if [[ -n "$SETUP_REASON" ]]; then
   echo ""
   echo "  ============================================================"
-  echo "   UNCENSORED AI STUDIO      |  $PLATFORM_LABEL $SETUP_MODE"
+  echo "   UNCENSORED SI STUDIO      |  $PLATFORM_LABEL $SETUP_MODE"
   echo "  ============================================================"
   echo ""
   if [[ "$SETUP_MODE" == "First-Time Setup" ]]; then
@@ -222,7 +222,7 @@ fi
 clear 2>/dev/null || true
 echo ""
 echo "  ============================================================"
-echo "   UNCENSORED AI STUDIO      |  Launching..."
+echo "   UNCENSORED SI STUDIO      |  Launching..."
 echo "  ============================================================"
 echo ""
 
