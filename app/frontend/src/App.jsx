@@ -133,7 +133,7 @@ function App() {
     return {
       contextSize: 0,
       temperature: 0.7,
-      systemPrompt: "You are a helpful local AI assistant.",
+      systemPrompt: "You are a helpful local SI assistant.",
       threads: Math.max(4, Math.min(16, (navigator.hardwareConcurrency || 4) - 2)),
       enableThinking: false,
       // New performance settings
