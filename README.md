@@ -1,4 +1,4 @@
-#  Portable AI Studio
+#  Portable AI Studio v2
 
 <p align="center">
   <strong>A premium, zero-configuration local AI studio and offline GUI for Stable Diffusion (Image Generation), LLMs (Chat), Whisper (Speech-to-Text), and Kokoro (Text-to-Speech). Powered by hardware-accelerated GPU and NPU execution on Windows, Linux, and macOS.</strong>
