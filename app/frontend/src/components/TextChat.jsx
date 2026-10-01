@@ -1026,8 +1026,8 @@ function TextChat({
                   <div className="chat-empty-icon">
                     <Bot size={30} />
                   </div>
-                  <h3>Local AI Chat</h3>
-                  <p>Your private, offline AI assistant. Choose a GGUF model above and start a conversation — everything stays on your machine.</p>
+                  <h3>Local SI Chat</h3>
+                  <p>Your private, offline SI assistant. Choose a GGUF model above and start a conversation — everything stays on your machine.</p>
                   {status.ready && (
                     <div className="chat-suggestions">
                       {[
