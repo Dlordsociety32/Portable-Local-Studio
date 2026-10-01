@@ -6585,7 +6585,7 @@ function getLlmRuntimeStats() {
 }
 
 async function benchmarkLlmBackend(model, backend, baseSettings = {}) {
-  const prompt = String(baseSettings.prompt || "Reply with one short sentence about local AI performance.");
+  const prompt = String(baseSettings.prompt || "Reply with one short sentence about local SI performance.");
   const startedAt = Date.now();
   await startLlmWithBackend({
     ...baseSettings,
