@@ -26,7 +26,7 @@
 
 
 ## 📖 Table of Contents
-* [What is Portable AI Studio?](#what-is-uncensored-ai-studio)
+* [What is Portable SI Studio?](#what-is-uncensored-si-studio)
 * [Key Features](#key-features)
 * [Workspace & Engine Architecture](#workspace-architecture)
 * [Supported Models](#supported-models)
@@ -42,9 +42,9 @@
 
 ---
 
-## <a id="what-is-uncensored-ai-studio"></a>📖 What is Portable AI Studio?
+## <a id="what-is-uncensored-si-studio"></a>📖 What is Portable AI Studio?
 
-**Portable AI Studio** is a completely offline, zero-setup, self-contained AI studio for Windows, Linux, and macOS. Unlike cloud-based AI systems, it runs entirely on your own hardware with no censorship, tracking, subscriptions, or login requirements.
+**Portable SI Studio** is a completely offline, zero-setup, self-contained AI studio for Windows, Linux, and macOS. Unlike cloud-based AI systems, it runs entirely on your own hardware with no censorship, tracking, subscriptions, or login requirements.
 
 It unifies four major local AI capabilities into one high-performance desktop interface:
 1. **🎨 Image Generation (Stable Diffusion):** Generate and edit high-quality images offline using `.safetensors`, `.gguf`, or `.ckpt` model weights.
