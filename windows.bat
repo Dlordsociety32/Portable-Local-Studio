@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
-title Uncensored AI Studio
+title Uncensored SI Studio
 cd /d "%~dp0"
 
 set APP=%~dp0app
@@ -57,7 +57,7 @@ goto :run_setup
 :run_setup
 echo.
 echo  ============================================================
-echo   UNCENSORED AI STUDIO      ^|  %SETUP_MODE%
+echo   UNCENSORED SI STUDIO      ^|  %SETUP_MODE%
 echo  ============================================================
 echo.
 if "%SETUP_MODE%"=="First-Time Setup" (
@@ -91,7 +91,7 @@ goto :launch
 :launch
 echo.
 echo  ============================================================
-echo   UNCENSORED AI STUDIO      ^|  Launching...
+echo   UNCENSORED SI STUDIO      ^|  Launching...
 echo  ============================================================
 echo.
 
