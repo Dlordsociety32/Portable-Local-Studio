@@ -12,6 +12,7 @@
 
 <p align="center">
   🎥 <strong>Watch the Setup & Demo Video:</strong> <a href="https://youtu.be/yeFvP3SWMak">https://youtu.be/yeFvP3SWMak</a>
+     <br>
      <strong>Download Chromium:</strong> <a href="https://download-chromium.appspot.com/">https://download-chromium.appspot.com/</a>
 </p>
 
