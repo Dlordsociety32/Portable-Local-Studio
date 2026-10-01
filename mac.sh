@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Uncensored AI Studio - macOS Launcher
+# Uncensored SI Studio - macOS Launcher
 # Double-click or run: ./mac.sh
 #
 
@@ -165,7 +165,7 @@ fi
 if [[ -n "$SETUP_REASON" ]]; then
   echo ""
   echo "  ============================================================"
-  echo "   UNCENSORED AI STUDIO      |  $PLATFORM_LABEL $SETUP_MODE"
+  echo "   UNCENSORED SI STUDIO      |  $PLATFORM_LABEL $SETUP_MODE"
   echo "  ============================================================"
   echo ""
   if [[ "$SETUP_MODE" == "First-Time Setup" ]]; then
@@ -199,7 +199,7 @@ fi
 clear 2>/dev/null || true
 echo ""
 echo "  ============================================================"
-echo "   UNCENSORED AI STUDIO      |  Launching..."
+echo "   UNCENSORED SI STUDIO      |  Launching..."
 echo "  ============================================================"
 echo ""
 
