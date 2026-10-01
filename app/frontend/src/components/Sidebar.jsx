@@ -39,7 +39,7 @@ function Sidebar({
         {/* Sidebar Header */}
         <div className="sidebar-logo">
           <Shield className="sidebar-logo-icon" />
-          <span className="sidebar-logo-text">Local AI Studio</span>
+          <span className="sidebar-logo-text">Local Super Intelligence Studio</span>
         </div>
 
         {/* Sidebar Navigation Links (Material 3 style) */}
